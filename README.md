@@ -1,8 +1,8 @@
 # Matsu
 Unity Codes for Matsu video game
 
-Matsu Codes on Character: Player Movement, Player Health, Player Controller
+Matsu Codes on Character: Player Movement, Player Health, Player Controller, Count Script
 
-Forager Codes:
+Forager Codes: Enemy Controller, Enemy Attack
 
-Nematode Codes:
+Nematode Codes: Waypoint Follow
